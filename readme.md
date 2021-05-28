@@ -10,20 +10,20 @@ Please, you should remember that folder name cannot consist of several words ("s
 
 3. Open terminal in your IDE
 
-4. npm init -y
+4. **npm init -y** 
 
-5. npm i typescript --save-dev
+5. **npm i typescript --save-dev** to install TypeScript
 
-6. npx tsc --init
+6. **npx tsc --init** to initialize TypeScript
 
 7. Create "webpack.config.js" file
 
 8. Copy configurations and save them
 
-9. npm i html-webpack-plugin webpack-dev-server webpack webpack-cli ts-loader css-loader style-loader
+9. **npm i html-webpack-plugin webpack-dev-server webpack webpack-cli ts-loader css-loader style-loader**
 
 10. Create index.ts and index.html
 
 11. In "package.json" create script "start"
 
-12. npm run start to check your settings
+12. **npm run start** to check your settings
