@@ -1,0 +1,24 @@
+{
+  "name": "SPA_maxim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx webpack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "css-loader": "^5.2.6",
+    "html-webpack-plugin": "^5.3.1",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^9.2.2",
+    "webpack": "^5.38.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}

@@ -1,0 +1,29 @@
+body {
+  background-color: cornflowerblue;
+  font-family: 'Roboto';
+}
+
+a {
+  text-decoration: none;
+  text-shadow: 2px -1px 3px #000;
+  font-size: 1.5rem;
+  color: rgb(122, 233, 205);
+}
+
+a:hover {
+  color: #fff;
+}
+
+h1 {
+  font-size: 3rem;
+  color: coral;
+  text-shadow: 0 0 3px #fff;
+  margin-top: 3rem;
+  margin-left: 3rem;
+}
+
+.header-container div {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 1rem;
+}
