@@ -23,7 +23,7 @@ Please, you should remember that folder name cannot consist of several words ("s
 
 9. **npm i html-webpack-plugin webpack-dev-server webpack webpack-cli ts-loader css-loader style-loader**
 
-10. Create index.ts and index.html
+10. Create a folder "src". Create index.ts and index.html in folder "src"
 
 11. In "package.json" create script "start"
 
